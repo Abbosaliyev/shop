@@ -18,6 +18,7 @@ public class CategoryReceiveModel {
     @JsonProperty("name")
     private String name;
 
+
     @JsonProperty("parent_id")
     private int parentId;
 
